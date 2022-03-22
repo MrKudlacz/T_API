@@ -1,0 +1,31 @@
+#210221143600,2021-02-21 14:36:13,INFO,cezar,Failed login attempt for user: Cezaryt,Orders API
+#210221143600,2021-02-21 14:36:20,INFO,cezar,Request GET with parameters received : ImmutableMultiDict([('id', '5889b1365db93224505ae3b9')]),Orders API
+#210221143600,2021-02-21 14:36:20,INFO,cezar,Request GET with parameters completed : ImmutableMultiDict([('id', '5889b1365db93224505ae3b9')]),Orders API
+#210221143600,2021-02-21 14:36:32,INFO,cezar,Request GET with parameters received : ImmutableMultiDict([('currency', 'USD')]),Orders API
+#210221143600,2021-02-21 14:36:32,INFO,cezar,Request GET with parameters completed : ImmutableMultiDict([('currency', 'USD')]),Orders API
+#210221143600,2021-02-21 14:36:47,INFO,cezar,Request GET with parameters received : ImmutableMultiDict([('id', '5889b0a6797714883c501c23')]),Orders API
+#210221143600,2021-02-21 14:36:47,INFO,cezar,Request GET with parameters completed : ImmutableMultiDict([('id', '5889b0a6797714883c501c23')]),Orders API
+#210221143817,2021-02-21 14:38:26,INFO,cezar,Failed login attempt for user: Cezaryy,Orders API
+#210221143948,2021-02-21 14:39:53,INFO,cezar,Failed login attempt for user: Cezaryy,Orders API
+#210221143948,2021-02-21 14:40:18,INFO,cezar,Failed login attempt for user: Cezaryy,Orders API
+#210221144441,2021-02-21 14:44:46,INFO,cezar,Failed login attempt for user: Cezaryy,Orders API
+#210221144441,2021-02-21 14:44:50,INFO,cezar,Request GET with parameters received : ImmutableMultiDict([('id', '5889b0a6797714883c501c23')]),Orders API
+#210221144441,2021-02-21 14:44:50,INFO,cezar,Request GET with parameters completed : ImmutableMultiDict([('id', '5889b0a6797714883c501c23')]),Orders API
+#210221144441,2021-02-21 14:45:28,INFO,cezar,Request GET with parameters received : ImmutableMultiDict([('shipped_to', 'Olesdy,Essex'), ('sysparm_offset', '2')]),Orders API
+#210221144441,2021-02-21 14:45:28,INFO,cezar,Request GET with parameters completed : ImmutableMultiDict([('shipped_to', 'Olesdy,Essex'), ('sysparm_offset', '2')]),Orders API
+#210221144441,2021-02-21 14:45:53,INFO,cezar,Request GET with parameters received : ImmutableMultiDict([('shipped_to', 'Oley,Essex'), ('sysparm_offset', '2')]),Orders API
+#210221144441,2021-02-21 14:45:53,INFO,cezar,Request GET with parameters completed : ImmutableMultiDict([('shipped_to', 'Oley,Essex'), ('sysparm_offset', '2')]),Orders API
+#210221144441,2021-02-21 14:46:45,INFO,cezar,Request GET with parameters received : ImmutableMultiDict([('shipped_to', 'Oley,Essex,Fivepointville'), ('sysparm_offset', '2'), ('sysparm_limit', '40')]),Orders API
+#210221144441,2021-02-21 14:46:45,INFO,cezar,Request GET with parameters completed : ImmutableMultiDict([('shipped_to', 'Oley,Essex,Fivepointville'), ('sysparm_offset', '2'), ('sysparm_limit', '40')]),Orders API
+#210221144441,2021-02-21 14:46:53,INFO,cezar,Request GET with parameters received : ImmutableMultiDict([('shipped_to', 'Oley,Essex,Fivepointville'), ('sysparm_offset', '2'), ('sysparm_limit', '5')]),Orders API
+#210221144441,2021-02-21 14:46:53,INFO,cezar,Request GET with parameters completed : ImmutableMultiDict([('shipped_to', 'Oley,Essex,Fivepointville'), ('sysparm_offset', '2'), ('sysparm_limit', '5')]),Orders API
+#210221144441,2021-02-21 14:47:27,INFO,cezar,Request GET with parameters received : ImmutableMultiDict([('id', '5889b0a6797714883c501c23,5889b0a786d3525c7050fc50')]),Orders API
+#210221144441,2021-02-21 14:47:27,INFO,cezar,Request GET with parameters completed : ImmutableMultiDict([('id', '5889b0a6797714883c501c23,5889b0a786d3525c7050fc50')]),Orders API
+#210221154826,2021-02-21 15:48:30,INFO,cezar,Request GET with parameters received : ImmutableMultiDict([('id', '5889b0a6797714883c501c23,5889b0a786d3525c7050fc50')]),Orders API
+#210221154826,2021-02-21 15:48:30,INFO,cezar,Request GET with parameters completed : ImmutableMultiDict([('id', '5889b0a6797714883c501c23,5889b0a786d3525c7050fc50')]),Orders API
+#210221154826,2021-02-21 15:48:34,INFO,cezar,Request GET with parameters received : ImmutableMultiDict([('id', '5889b0a6797714883c501c23,5889b0a786d3525c7050fc50')]),Orders API
+#210221154826,2021-02-21 15:48:34,INFO,cezar,Request GET with parameters completed : ImmutableMultiDict([('id', '5889b0a6797714883c501c23,5889b0a786d3525c7050fc50')]),Orders API
+#210221154826,2021-02-21 15:48:55,INFO,cezar,Request GET with parameters received : ImmutableMultiDict([('id', '5889b0a6797714883c501c23,5889b0a786d3525c7050fc50')]),Orders API
+#210221154826,2021-02-21 15:48:55,INFO,cezar,Request GET with parameters completed : ImmutableMultiDict([('id', '5889b0a6797714883c501c23,5889b0a786d3525c7050fc50')]),Orders API
+#210221155413,2021-02-21 15:54:31,INFO,cezar,Request GET with parameters received : ImmutableMultiDict([('cost', '1000')]),Orders API
+#210221155413,2021-02-21 15:54:31,INFO,cezar,Request GET with parameters completed : ImmutableMultiDict([('cost', '1000')]),Orders API
